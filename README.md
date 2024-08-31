@@ -1,6 +1,6 @@
 # IBO
 
-This repository will contain the codes for **IBO**.
+This repository will contain the codes for **[IBO](https://arxiv.org/abs/2408.16395)**.
 
 The codes and resources for this project are currently being prepared and will be available soon. Stay tuned for updates!
 
