@@ -7,6 +7,16 @@
 The source code for this paper will be available soon. 
 
 ---
+## Dataset
+
+This project utilizes the **[Camelyon16](https://camelyon16.grand-challenge.org/)** dataset, which is widely used in the field of computational pathology for the detection of metastases in lymph node tissue images.  
+
+### About Camelyon16
+- Contains whole-slide images (WSIs) of lymph node sections.
+- Used for benchmarking automated cancer detection algorithms.
+- Provides both training and test sets with expert annotations.
+
+---
 
 ## 📄 Citation
 
